@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yurka11
-- 👀 I’m interested in learning the Unix/ Linux side of computing, programming, and learning world languages
+- 👀 I’m interested in learning the Unix/ Linux side of computing, programming, and indo-European languages
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on github

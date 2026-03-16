@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yurka11
-- 👀 I’m interested in learning linux and web deesign, also learning world languages
-- 🌱 I’m currently learning basic html 
+- 👀 I’m interested in learning the Unix/ Linux side of computing, programming, and learning world languages
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on github
 
